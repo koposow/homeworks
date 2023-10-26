@@ -43,4 +43,12 @@
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
 
+### Решение 2
+1. ![conf_hosts](/img/conf_hosts.png)
+2. ![agent_works](/img/agent_works.png)
+3. ![wm_data](/img/vm1-2_data.png)
+4. - git status
+   - git add . 
+   - git commit -m 'add agents'
+   - git push origin main
 ---
