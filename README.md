@@ -15,7 +15,7 @@
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
 ### Решение 1
-1. [!git status](/img/Screenshot%20at%20Oct%2026%2020-31-54.png)
+1. ![login zabbix](/img/Screenshot%20at%20Oct%2026%2020-31-54.png)
 2. git clone git@github.com:koposow/zabbix_hw.git  
    git remote set-url origin git@github.com:koposow/zabbix_hw.git
    git config --global user.email nikolay@koposow.ru
