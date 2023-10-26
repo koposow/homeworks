@@ -14,6 +14,16 @@
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
+### Решение 1
+1. [!git status](/img/Screenshot%20at%20Oct%2026%2020-31-54.png)
+2. git clone git@github.com:koposow/zabbix_hw.git  
+   git remote set-url origin git@github.com:koposow/zabbix_hw.git
+   git config --global user.email nikolay@koposow.ru
+   git config --global user.name Nikolay Koposov
+   git status
+   git add . 
+   git commit -m 'First commit'
+   git push origin main
 ---
 
 ### Задание 2 
